@@ -1,0 +1,11 @@
+https://wss2.cex.uk.webuy.io/v3/supercats
+https://wss2.cex.uk.webuy.io/v3/productlines
+https://wss2.cex.uk.webuy.io/v3/categories?productLineIds=[63]
+
+https://wss2.cex.uk.webuy.io/v3/boxes
+https://wss2.cex.uk.webuy.io/v3/boxes/5021290026490/detail
+https://wss2.cex.uk.webuy.io/v3/boxes/5021290026490/neareststores?latitude=52.0314787&longitude=-0.7520958999999721
+
+https://wss2.cex.uk.webuy.io/v3/stores
+https://wss2.cex.uk.webuy.io/v3/boxlists/topsellers
+https://wss2.cex.uk.webuy.io/v3/boxlists/mostwanted
