@@ -1,5 +1,5 @@
 -----------------------------------------
-24 April 2024:
+14th May 2024:
 -----------------------------------------
 
 A class library project and console launcher used to demonstrate some of the capabilities of the REST based webuy (CEX) API.
@@ -14,9 +14,15 @@ Technologies / Principles Used:
 - RestSharp
 - Newtonsoft.Json
 
-Resources:
+Resources / Credits:
 
 - https://github.com/Dionakra/webuy-api
 - https://github.com/martinsirbe/cex-stock-checker
 - https://github.com/piotrpdev/WeBuy-Cex-Price-Tracker
 - https://www.youtube.com/watch?v=qm29vYcYBeg
+
+Images:
+
+![Alt text](Images/Cex1.jpg)
+![Alt text](Images/Cex2.jpg)
+![Alt text](Images/Cex3.jpg)

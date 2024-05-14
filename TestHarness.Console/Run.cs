@@ -13,6 +13,10 @@ namespace TestHarness.Console
 
             List<Boxlistsbox> eg2 = cex.GetTopSellers();
 
+            cex.GetStoreNames();
+
+            Store result = cex.GetStoreDataByName("reading");
+
             System.Console.ReadLine();
         }
     }
